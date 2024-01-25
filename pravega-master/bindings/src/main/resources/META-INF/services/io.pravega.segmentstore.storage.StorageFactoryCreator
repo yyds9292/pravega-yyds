@@ -23,8 +23,5 @@ io.pravega.storage.extendeds3.ExtendedS3StorageFactoryCreator
 io.pravega.storage.s3.S3StorageFactoryCreator
 io.pravega.storage.gcp.GCPStorageFactoryCreator
 io.pravega.storage.azure.AzureStorageFactoryCreator
-<<<<<<< HEAD
 io.pravega.storage.azure.OBSStorageFactoryCreator
-=======
-io.pravega.storage.azure.OBSStorageFactoryCreator
->>>>>>> origin/master
+
